@@ -35,6 +35,7 @@
 
 ## 💻 Technical skills
 
+<h1><strong>Languages</strong></h1>
 [![](https://skillicons.dev/icons?i=py,java,c,html,css,php,mysql&perline=3)](https://skillicons.dev)
 </br> </br>
 
