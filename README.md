@@ -27,9 +27,11 @@
 
 ## 🌱 Currently learning
 
-• JavaScript
-• Java
-• C#
+  <ul>
+    <li>JavaScript</li>
+    <li>Java</li>
+    <li>C#</li>
+  </ul>
 
 ## 💻 Technical skills
 
