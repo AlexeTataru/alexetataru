@@ -62,3 +62,4 @@
 ## 📈 Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)](https://github.com/NotoriousMaka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/NotoriousMaka)
