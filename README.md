@@ -28,9 +28,9 @@
 ## 🌱 Currently learning
 
   <ul>
-    <li>JavaScript</li>
-    <li>Java</li>
-    <li>C#</li>
+    <li>[![](https://skillicons.dev/icons?i=js)](https://skillicons.dev)</li>
+    <li>[![](https://skillicons.dev/icons?i=java)](https://skillicons.dev)</li>
+    <li>[![](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)</li>
   </ul>
 
 ## 💻 Technical skills
