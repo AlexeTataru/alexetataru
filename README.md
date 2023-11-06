@@ -20,8 +20,10 @@
 ## 🔭 Currently working on
 
 • Clothes Ranking Website
-• It includes rankings for different luxury brands based on different criteria.
-• Built using HTML, CSS and JavaScript.
+  <ul>
+    <li>It includes rankings for different luxury brands based on different criteria.</li>
+    <li>Built using HTML, CSS and JavaScript.</li>
+  </ul>
 
 ## 🌱 Currently learning
 
