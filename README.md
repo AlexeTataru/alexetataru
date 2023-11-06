@@ -36,11 +36,10 @@
 ## 💻 Technical skills
 
 [![](https://skillicons.dev/icons?i=py,java,c,html,css,php,mysql&perline=3)](https://skillicons.dev)
-</br>
+</br> </br>
 
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-</br>
+[![](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+</br> </br>
 
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
