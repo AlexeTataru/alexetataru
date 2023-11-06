@@ -58,3 +58,7 @@
 
 ![](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+
+## Statistics
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NotoriousMaka)](https://github.com/anuraghazra/github-readme-stats)
