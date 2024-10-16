@@ -19,10 +19,13 @@
 
 ## 🔭 Currently working on
 
-• Clothes Ranking Website
+• AI-Driven Travel Planner
   <ul>
-    <li>It includes rankings for different luxury brands based on different criteria.</li>
-    <li>Built using HTML, CSS and JavaScript.</li>
+    <li>A personalized travel itinerary platform leveraging AI and real-time data.</li>
+    <li>Uses ChatGPT 3.5 for generating itineraries</li>
+    <li>Integrates with the Trip.com API for hotel and flight bookings.</li>
+    <li>Built using HTML, CSS, JavaScript, and Laravel for backend development.</li>
+    <li>Incorporates web scraping (Playwright/Puppeteer) for real-time data such as weather, community reviews, and local events.</li>
   </ul>
 
 ## 🌱 Currently learning
