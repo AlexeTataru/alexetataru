@@ -7,8 +7,8 @@
 </h3>
 
 <h2 align="center">
-    I`m a student at Leeds Beckett University. 🧑‍🎓 </br>
-    Currently studying Computer Science. 👨‍💻
+    I`m a graduate from Leeds Beckett University. 🧑‍🎓 </br>
+    Graduated in Computer Science, July 2025. 👨‍💻
 </h2>
 
 ### 🤝 Connect with me:
@@ -31,9 +31,8 @@
 ## 🌱 Currently learning
 
 <ul>
-  <li><strong>JavaScript</strong></li>
-  <li><strong>C#</strong></li>
-  <li><strong>Java</strong></li>
+  <li><strong>Web Scraping Techniques - Playwright & Puppeteer</strong></li>
+  <li><strong>OpenAI API Integration</strong></li>
 </ul>
 
 ## 💻 Technical skills
