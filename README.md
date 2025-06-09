@@ -38,15 +38,15 @@
 ## 💻 Technical skills
 
 ### Languages
-[![](https://skillicons.dev/icons?i=py,java,c,html,css,php,mysql&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,java,c,cs,cpp,html,css,php,mysql,kotlin&perline=3)](https://skillicons.dev)
 </br> </br>
 
 ### Tools
-[![](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,docker&perline=3)](https://skillicons.dev)
 </br> </br>
 
 ### IDEs
-[![](https://skillicons.dev/icons?i=eclipse,idea,vscode,visualstudio&perline=2)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=eclipse,idea,vscode,visualstudio,phpstorm,androidstudio,matlab&perline=3)](https://skillicons.dev)
 
 ## 🧑‍🎓 Education
 
