@@ -22,10 +22,10 @@
 • <strong>Auto-Notes Generator for Students (Desktop App)</strong>
   <ol>
     <li>A productivity tool that <strong>converts academic PDFs</strong> or <strong>lecture content</strong> into <strong>concise, professional notes.</strong></li>
-    <li>Uses Python and the OpenAI API (GPT-3.5-Turbo) to generate summaries, notes, and flashcards.</li>
-    <li>Supports PDF input with clean text extraction via PyPDF2.</li>
+    <li>Uses <strong>Python</strong> and the <strong>OpenAI API (GPT-3.5-Turbo)</strong> to generate summaries, notes, and flashcards.</li>
+    <li>Supports <strong>PDF input</strong> with clean text extraction via PyPDF2.</li>
     <li>Optionally includes a GUI using Python (Tkinter/PyQt).</li>
-    <li>Outputs customizable formats: .txt, .md, or .docx.</li>
+    <li>Outputs customisable formats: .txt, .md, or .docx.</li>
     <li>Designed to work offline with optional future support for audio transcription (Whisper) and multi-language input.</li>
   </ol>
 
