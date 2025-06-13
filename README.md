@@ -3,12 +3,12 @@
 </p>
 
 <h3 align="center">
-    System.out.println(Hello, I`m <a href="https://www.linkedin.com/in/alexe-tataru-52bb55208/" target="_blank" rel="noreferrer">Alexe</a>! 👋);
+    Hello, I`m <a href="https://www.linkedin.com/in/alexe-tataru-52bb55208/" target="_blank" rel="noreferrer">Alexe</a>! 👋);
 </h3>
 
 <h2 align="center">
-    Graduate @ Leeds Beckett University. 🧑‍🎓 </br>
-    Aspiring Full-Stack Developer | Skilled in HTML, CSS, JavaScript
+    Aspiring Full-Stack Developer | </br>
+    Skilled in HTML, CSS, JavaScript
 </h2>
 
 ### 🤝 Connect with me:
