@@ -7,8 +7,8 @@
 </h3>
 
 <h2 align="center">
-    I`m a graduate from Leeds Beckett University. 🧑‍🎓 </br>
-    Graduated in Computer Science, July 2025. 👨‍💻
+    Graduate @ Leeds Beckett University. 🧑‍🎓 </br>
+    Aspiring Full-Stack Developer | Skilled in HTML, CSS, JavaScript
 </h2>
 
 ### 🤝 Connect with me:
