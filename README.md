@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/114700306/280758827-9955ffa5-858c-4f04-8ff4-9a5ada19140f.png" alt="Alexe Tataru - Banner"></a>
+  <img src="https://github.com/user-attachments/assets/89755e7e-c393-49b5-bf22-fef08ad28103.png" alt="Alexe Tataru - Banner"></a>
 </p>
 
 <h3 align="center">
