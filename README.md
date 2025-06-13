@@ -3,12 +3,12 @@
 </p>
 
 <h3 align="center">
-    Hello, I`m <a href="https://www.linkedin.com/in/alexe-tataru-52bb55208/" target="_blank" rel="noreferrer">Alexe</a>! 👋);
+    Hello, I`m <a href="https://www.linkedin.com/in/alexe-tataru-52bb55208/" target="_blank" rel="noreferrer">Alexe</a>! 👋
 </h3>
 
 <h2 align="center">
     Aspiring Full-Stack Developer | </br>
-    Skilled in HTML, CSS, JavaScript
+    Skilled in HTML, CSS & JavaScript
 </h2>
 
 ### 🤝 Connect with me:
