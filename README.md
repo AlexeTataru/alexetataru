@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/114700306/459765445-82de0ce9-aea0-4f27-8bef-be930a8e158f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEwMDAzMDAsIm5iZiI6MTc1MTAwMDAwMCwicGF0aCI6Ii8xMTQ3MDAzMDYvNDU5NzY1NDQ1LTgyZGUwY2U5LWFlYTAtNGYyNy04YmVmLWJlOTMwYThlMTU4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYyN1QwNDUzMjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZDhmZTZjNzlmNTQ2YTlkN2I0MTZmNzBjMzdiZTc2MzgyNTNlZTQzYWRhMmMwOTE1YWIyMTYzOGNjMDQxOWM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AFrKHmvEEujcSoeYkpsVjdDWpJ6fT0TU9kYVIvIBnYw" alt="Alexe Tataru - Banner">
-</p>
-
 <h3 align="center">
     Hello, I`m <a href="https://www.linkedin.com/in/alexe-tataru-52bb55208/" target="_blank" rel="noreferrer">Alexe</a>! 👋
 </h3>
