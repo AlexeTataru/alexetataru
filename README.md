@@ -15,7 +15,7 @@
 
 ## 🔭 Currently working on
 
-Viatolio [www.viatolio.com](https://www.viatolio.com) is a modern travel sharing platform inspired by Linktree, where users create personalized travel pages to showcase their trips, miles traveled, photos, destinations, and travel stats.
+Viatolio ([www.viatolio.com](https://www.viatolio.com)) is a modern travel sharing platform inspired by Linktree, where users create personalized travel pages to showcase their trips, miles traveled, photos, destinations, and travel stats.
 
 - Easily add new trips, upload photos, and visualize your journeys on an interactive Mapbox-powered map.
 - Share your custom public travel page with friends and followers.
