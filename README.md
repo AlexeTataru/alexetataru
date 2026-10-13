@@ -1,67 +1,96 @@
-<h3 align="center">
-    Hello, I`m <a href="https://www.linkedin.com/in/alexe-tataru-52bb55208/" target="_blank" rel="noreferrer">Alexe</a>! 👋
-</h3>
 
-<h2 align="center">
-    Aspiring Full-Stack Developer | </br>
-    Skilled in HTML, CSS & JavaScript
-</h2>
+# Hi, I'm Alexe Tataru 👋
 
-### 🤝 Connect with me:
+### Aspiring Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
 
-<a href="https://www.linkedin.com/in/alexe-tataru-52bb55208/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/notoriousmaka/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-</br>
+I'm a Mathematics and Computer Science student passionate about building practical software solutions, developing modern web applications, and exploring AI-driven technologies.
 
-## 🔭 Currently working on
+- 🌍 Building **[Viatolio](https://www.viatolio.com)** — a travel-sharing platform.
+- 💻 Interested in full-stack development, AI, machine learning, and automation.
+- 🚀 Passionate about turning ideas into functional, user-focused applications.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/alexe-tataru-52bb55208/).
 
-## Viatolio 🌍✈️  
-[www.viatolio.com](https://www.viatolio.com)
+---
 
-Viatolio is a modern travel sharing platform inspired by Linktree, where users create personalized travel pages to showcase their trips, miles traveled, photos, destinations, and travel stats.
+## 🚀 Featured Project
 
-- Easily add new trips, upload photos, and visualize your journeys on an interactive Mapbox-powered map.
-- Share your custom public travel page with friends and followers.
-- Mobile-first, fast, secure, and optimized for sharing.
+### 🌍 [Viatolio — Travel Sharing Platform](https://www.viatolio.com)
 
-**Tech stack:**  
-• Next.js (React) for the frontend  
-• Node.js & Express for the backend  
-• PostgreSQL (Supabase/Railway) for data  
-• Cloudflare R2 for photo storage  
-• Mapbox for travel visualizations  
+A modern travel-sharing platform that lets users create personalised public pages showcasing their trips, destinations, photographs, and travel statistics.
 
-**Planned features:**  
-• Travel timelines  
-• Social sharing & QR codes  
-• Gamification (badges, leaderboards)  
-• User analytics  
+- 🗺️ Visualise journeys on interactive Mapbox-powered maps.
+- 📸 Create personalised travel profiles and share trip photos.
+- 📱 Enjoy a mobile-first experience designed for easy sharing.
+- 🎯 Planned features include travel timelines, social sharing, analytics, and gamification.
 
-**Follow the project to see how it grows!**
+**Tech Stack**
 
+`Next.js` `React` `Node.js` `Express` `PostgreSQL` `Supabase` `Cloudflare R2` `Mapbox`
 
-## 🌱 Currently learning
+---
 
-<ul>
-  <li><strong>Web Scraping Techniques - Playwright & Puppeteer</strong></li>
-  <li><strong>OpenAI API Integration</strong></li>
-</ul>
-
-## 💻 Technical skills
+## 🧰 Technical Skills
 
 ### Languages
-[![](https://skillicons.dev/icons?i=py,java,c,cs,cpp,html,css,php,mysql,kotlin&perline=3)](https://skillicons.dev)
-</br> </br>
 
-### Tools
-[![](https://skillicons.dev/icons?i=git,github,docker&perline=3)](https://skillicons.dev)
-</br> </br>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,cpp,js,html,css,php,mysql,kotlin&perline=6" alt="Programming languages" />
+</p>
 
-### IDEs
-[![](https://skillicons.dev/icons?i=eclipse,idea,vscode,visualstudio,phpstorm,androidstudio,matlab&perline=3)](https://skillicons.dev)
+### Frameworks, Platforms & Tools
 
-## 🧑‍🎓 Education
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,laravel,postgres,supabase,docker,git,github&perline=5" alt="Frameworks and tools" />
+</p>
 
-![](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
-![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
+### Development Environments
 
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,phpstorm,idea,eclipse,androidstudio,matlab&perline=5" alt="Development environments" />
+</p>
+
+### Additional Technologies
+
+- **AI & APIs:** OpenAI API integration
+- **Web Automation & Scraping:** Playwright, Puppeteer
+- **Mapping:** Mapbox
+- **Databases:** PostgreSQL, MySQL
+
+---
+
+## 💡 Other Projects
+
+I'm interested in developing solutions across several areas:
+
+- 🌐 Full-stack web applications
+- 🤖 AI-powered applications and automation
+- 🛒 E-commerce optimisation and browser extensions
+- 🔌 Backend services and API integrations
+
+Check out my repositories to explore my work.
+
+---
+
+## 📚 Currently Exploring
+
+- Artificial intelligence and machine learning
+- Modern full-stack architecture
+- Algorithms and data structures
+- Software engineering best practices
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/alexe-tataru-52bb55208/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/notoriousmaka/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+*Always learning, building, and improving.* 🚀
