@@ -1,9 +1,19 @@
+<h3 align="center">
+    Hello, I`m <a href="https://www.linkedin.com/in/alexe-tataru-52bb55208/" target="_blank" rel="noreferrer">Alexe</a>! 👋
+</h3>
 
-# Hi, I'm Alexe Tataru 👋
+---
 
-### Aspiring Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
+<h2 align="center">
+    Graduate Software Engineer </br>
+    AI & Machine Learning Enthusiast
+</h2>
 
-I'm a Mathematics and Computer Science student passionate about building practical software solutions, developing modern web applications, and exploring AI-driven technologies.
+---
+
+<h3 align="center">
+    I'm a MSc Computer Science student passionate about building practical software solutions, developing modern web applications, and exploring AI-driven technologies.
+</h3>
 
 - 🌍 Building **[Viatolio](https://www.viatolio.com)** — a travel-sharing platform.
 - 💻 Interested in full-stack development, AI, machine learning, and automation.
@@ -26,8 +36,6 @@ A modern travel-sharing platform that lets users create personalised public page
 **Tech Stack**
 
 `Next.js` `React` `Node.js` `Express` `PostgreSQL` `Supabase` `Cloudflare R2` `Mapbox`
-
----
 
 ## 🧰 Technical Skills
 
@@ -55,19 +63,6 @@ A modern travel-sharing platform that lets users create personalised public page
 - **Web Automation & Scraping:** Playwright, Puppeteer
 - **Mapping:** Mapbox
 - **Databases:** PostgreSQL, MySQL
-
----
-
-## 💡 Other Projects
-
-I'm interested in developing solutions across several areas:
-
-- 🌐 Full-stack web applications
-- 🤖 AI-powered applications and automation
-- 🛒 E-commerce optimisation and browser extensions
-- 🔌 Backend services and API integrations
-
-Check out my repositories to explore my work.
 
 ---
 
