@@ -9,8 +9,6 @@
     AI & Machine Learning Enthusiast
 </h2>
 
----
-
 <h3 align="center">
     I'm a MSc Computer Science student passionate about building practical software solutions, developing modern web applications, and exploring AI-driven technologies.
 </h3>
@@ -19,8 +17,6 @@
 - 💻 Interested in full-stack development, AI, machine learning, and automation.
 - 🚀 Passionate about turning ideas into functional, user-focused applications.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/alexe-tataru-52bb55208/).
-
----
 
 ## 🚀 Featured Project
 
@@ -64,16 +60,12 @@ A modern travel-sharing platform that lets users create personalised public page
 - **Mapping:** Mapbox
 - **Databases:** PostgreSQL, MySQL
 
----
-
 ## 📚 Currently Exploring
 
 - Artificial intelligence and machine learning
 - Modern full-stack architecture
 - Algorithms and data structures
 - Software engineering best practices
-
----
 
 ## 🤝 Connect With Me
 
